@@ -2,7 +2,7 @@
 
 So a friend from SoCal threw out an idea for Halloween next year, and I wanted to put it up here so that I don't forget about it:
 
-**Sucker Punch!** Terrible movie with absolutely gorgeous outfits. I don't think a group of young trannies could ask for a better set of theme costumes to model. The ladies from Sucker Punch have everything: corsets, thigh highs, fishnets, school girl outfits, weapons, and big hair.
+**Sucker Punch!** Terrible movie with absolutely gorgeous costume design. I don't think a group of young trannies could ask for a better set of theme costumes to model. The ladies from Sucker Punch have everything: corsets, thigh highs, fishnets, school girl outfits, swords, artillery, and big hair.
 
 The best part is that if you don't like the fantasy world's costumes, there's a lot of other really sexy ones elsewhere in the movie.
 
