@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -e
+
+. bin/_common.sh
+
+curl -i -u ":$SERENALACHANCE_HTTP_AUTH_KEY" -X DELETE $SERENALACHANCE_HOST/$type/$slug

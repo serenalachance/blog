@@ -8,5 +8,5 @@ However you choose to describe them, the Spineys are beautifully detailed and ve
 
 Although I have nothing bad to say about them, it should be noted that the heel height isn't *quite* as high as the perspective in the picture below suggests. That's probably a good thing for most girls, and make them only *slightly* more boring for girls like me.
 
-<p class="figure figure_center"><a href="/images/articles/summer-love-is-spiney/spiney_1.jpg"><img src="/images/articles/summer-love-is-spiney/spiney_1_small.jpg" alt="Spiney wedge summer heels" /></a></p>
+<p class="figure figure_center"><a href="https://s3.amazonaws.com/serenalachance/summer-love-is-spiney/spiney_1.jpg"><img src="https://s3.amazonaws.com/serenalachance/summer-love-is-spiney/spiney_1_small.jpg" alt="Spiney wedge summer heels" /></a></p>
 
