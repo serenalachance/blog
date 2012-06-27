@@ -18,7 +18,7 @@ What really touched me about this post was its mystery. As indicated by the vari
 
 The Wayback Machine has preserved a few of her writings, and a video or two has survived, but I was surprised at how little material I was able to drudge up. Apparently the [Streisand effect](http://en.wikipedia.org/wiki/Streisand_effect) doesn't apply to crossdressers.
 
-The author also raises a few interesting points. Firstly, that she knew that one day she'd become the old middle-aged crossdresser who no longer convinces anybody, and this was a fate that she desperately wanted to avoid. Instead, she went out with a bang and left behind only lingering memories of the beautiful creature that she was in her prime. This is a choice all of us who are still relatively long will also have to face one day.
+The author also raises a few interesting points. Firstly, that she knew that one day she'd become the old middle-aged crossdresser who no longer convinces anybody, and this was a fate that she desperately wanted to avoid. Instead, she went out with a bang and left behind only lingering memories of the beautiful creature that she was (probably still is, it hasn't been _that_ long). This is a choice that many in a similar position will have to make one day.
 
 Secondly, she indicates that one day the crossdressing urge suddenly just switched off, and she no longer felt that she needed to indulge. Although part of me is hoping this is true (see my post on [the problem with being a t-girl on the side](http://serenalachance.org/the-problem-with-being-a-tgirl-on-the-side), the skeptic in me is dubious. If my urge had fled completely, I hope I wouldn't find myself browsing subject specific forums, even if only occasionally.
 
