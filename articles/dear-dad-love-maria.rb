@@ -5,6 +5,6 @@
   location:      "peacefully contemplating life in the rain",
   tiny_slug:     "love-maria",
   featured_html: <<-eos
-<iframe src="http://player.vimeo.com/video/5935188?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" style="margin: 0 0 0 -6px;"></iframe>
+<iframe src="//player.vimeo.com/video/5935188?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" style="margin: 0 0 0 -6px;"></iframe>
   eos
 }
