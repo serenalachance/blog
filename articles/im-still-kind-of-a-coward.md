@@ -1,4 +1,4 @@
-So tonight I got home and on pure impulse I threw on some cute tights, short dress, [my Verdone wedge heels](http://serenalachance.org/articles/verdone-boots-and-my-quorra-costume), a bit of makeup, a blonde wig, and suddenly found myself transformed into Serena! (On these occasions, I always realize that I spend way too much time as a boring guy, but that's beside the point)
+So tonight I got home and on pure impulse I threw on some cute tights, short dress, [my Verdone wedge heels](//serenalachance.org/articles/verdone-boots-and-my-quorra-costume), a bit of makeup, a blonde wig, and suddenly found myself transformed into Serena! (On these occasions, I always realize that I spend way too much time as a boring guy, but that's beside the point)
 
 Well Serena's not really a homebody, so I went out to run a few chores like driving down to the ATM, getting gas, and sitting on the park bench for a few minutes to admire the beautiful night sky. During my time out, a few muggles saw me: a few guys walking their dogs, a guy who stepped out of the local bar to have a smoke, and a random who was biking around the parking lot.
 

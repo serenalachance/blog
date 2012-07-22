@@ -1,4 +1,4 @@
-I just pushed a small layout and backend update to [serenalachance.org](http://serenalachance.org) mostly aimed at making updating this site easier and therefore lessening the disincentive for me to update it.
+I just pushed a small layout and backend update to [serenalachance.org](//serenalachance.org) mostly aimed at making updating this site easier and therefore lessening the disincentive for me to update it.
 
 A few notes on the backend changes:
 
