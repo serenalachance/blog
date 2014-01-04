@@ -2,5 +2,6 @@
   slug:         "im-still-kind-of-a-coward", 
   published_at: Time.parse("July 22, 2011  1:54 MST"), 
   summary:      "I describe my latest venture into the big wide world.", 
+  hidden:        "true",
   tiny_slug:    "coward",
 }

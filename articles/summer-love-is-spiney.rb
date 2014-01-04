@@ -4,4 +4,5 @@
   summary:      "Part two of her Aldo order arrives and Serena is ready for a little summer fun.", 
   tiny_slug:    "spiney",
   location:     "on a major longboarding high",
+  hidden:       "true",
 }
