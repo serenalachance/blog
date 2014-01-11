@@ -4,4 +4,8 @@ set -e
 
 . bin/_common.sh
 
-curl -i -u ":$SERENALACHANCE_HTTP_AUTH_KEY" -X PUT $SERENALACHANCE_HOST/$type/$slug --data-urlencode "attributes@$target.rb" --data-urlencode "content@$target.md"
+if [ -f "$target.rb" ]; then
+    curl -i -u ":$SERENALACHANCE_HTTP_AUTH_KEY" -X PUT $SERENALACHANCE_HOST/$type/$slug --data-urlencode "attributes@$target.rb" --data-urlencode "content@$target.md"
+else
+    curl -i -u ":$SERENALACHANCE_HTTP_AUTH_KEY" -X PUT $SERENALACHANCE_HOST/$type/$slug --data-urlencode "content@$target.md"
+fi

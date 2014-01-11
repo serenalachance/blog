@@ -5,13 +5,9 @@ if [ "$target" == "" ]; then
   exit 1
 fi
 
-# Handle a '.' at the end of target for completion convenience
+# Handle a '.md' or '.' at the end of target for completion convenience
+target=${target%.md}
 target=${target%.}
-
-if [ ! -f "$target.rb" ]; then
-  echo "need $target.rb (attributes)"
-  exit 1
-fi
 
 if [ ! -f "$target.md" ]; then
   echo "need $target.md (content)"
