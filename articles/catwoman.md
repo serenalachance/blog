@@ -1,3 +1,11 @@
+---
+title: Catwoman in the Dark Knight Rises
+slug: catwoman
+published_at: Sun Aug 26 20:48:54 PDT 2012,
+summary: A few short notes on Catwoman's incredible costume in _TDKR_ (no spoilers).
+featured_html: <a href="/catwoman"><img src="https://d2r0xx1rijk0u.cloudfront.net/catwoman/dark-knight-rises-catwoman-poster-small.jpg" /></a>
+---
+
 I wanted to drop a note in about how glad I was to see Anne Hathaway's incredibly sexy Catwoman costume in _the Dark Knight Rises_ come with heels (as pictured below).
 
 <p class="figure figure_center"><a href="https://d2r0xx1rijk0u.cloudfront.net/catwoman/dark-knight-rises-catwoman-poster.jpg""><img src="https://d2r0xx1rijk0u.cloudfront.net/catwoman/dark-knight-rises-catwoman-poster-small.jpg"" /></a></p>
