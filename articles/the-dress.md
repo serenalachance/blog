@@ -3,6 +3,7 @@ title: The Dress
 slug: the-dress
 published_at: Fri Dec 26 14:00:04 PST 2014
 location: Calgary
+featured_html: <a href="http://www.flickr.com/photos/serenalachance/12254816405/"><img src="http://farm4.staticflickr.com/3813/12254816405_f1d499314d_z.jpg" /></a>
 ---
 
 I just found this unpublished article with a few pictures of my favorite dress of the year. The content here is minimal, but I figured that I'd push it out before the end of the year anyway. I still look like a barrel, but the dress' considerable flare helps paper over that to some degree.
